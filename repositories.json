@@ -1,0 +1,39 @@
+{
+  "version": "1",
+  "lastUpdated": "2026-06-25T12:00:00Z",
+  "repositories": {
+    "fvyrf/fresh-proxy-list": {
+      "type": "proxy_list",
+      "files": [
+        "https://raw.githubusercontent.com/fyvri/fresh-proxy-list/archive/storage/classic/http.txt",
+        "https://raw.githubusercontent.com/fyvri/fresh-proxy-list/archive/storage/classic/https.txt",
+        "https://raw.githubusercontent.com/fyvri/fresh-proxy-list/archive/storage/classic/socks4.txt",
+        "https://raw.githubusercontent.com/fyvri/fresh-proxy-list/archive/storage/classic/socks5.txt"
+      ]
+    },
+    "SoliSpirit/mtproto": {
+      "type": "mtproto",
+      "files": [
+        "https://raw.githubusercontent.com/SoliSpirit/mtproto/master/all_proxies.txt"
+      ]
+    },
+    "Grim1313/mtproto-for-telegram": {
+      "type": "mtproto",
+      "files": [
+        "https://raw.githubusercontent.com/Grim1313/mtproto-for-telegram/master/all_proxies.txt"
+      ]
+    },
+    "barry-far/V2ray-Config": {
+      "type": "v2ray",
+      "files": [
+        "https://raw.githubusercontent.com/barry-far/V2ray-config/main/All_Configs_Sub.txt"
+      ]
+    },
+    "mahdibland/V2RayAggregator": {
+      "type": "v2ray",
+      "files": [
+        "https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity"
+      ]
+    }
+  }
+}
