@@ -33,3 +33,110 @@
     ]
   }
 }
+{
+  "SoliSpirit/v2ray-configs": {
+    "type": "v2ray",
+    "files": [
+      "https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/refs/heads/main/all_configs.txt"
+    ]
+  },
+  "hans-thomas/v2ray-subscription": {
+    "type": "v2ray",
+    "files": [
+      "https://raw.githubusercontent.com/hans-thomas/v2ray-subscription/refs/heads/master/servers.txt"
+    ]
+  },
+  "ninjastrikers/nexus-nodes": {
+    "type": "v2ray",
+    "files": [
+      "https://raw.githubusercontent.com/ninjastrikers/nexus-nodes/refs/heads/main/configs/all.txt"
+    ]
+  },
+  "DukeMehdi/FreeList-V2ray-Configs": {
+    "type": "v2ray",
+    "files": [
+      "https://raw.githubusercontent.com/DukeMehdi/FreeList-V2ray-Configs/refs/heads/main/Configs/All-DukeMehdi-Configs.txt"
+    ]
+  },
+  "Argh94/V2RayAutoConfig": {
+    "type": "v2ray",
+    "files": [
+      "https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Vless.txt"
+    ]
+  },
+  "liMilCo/v2r": {
+    "type": "v2ray",
+    "files": [
+      "https://raw.githubusercontent.com/liMilCo/v2r/refs/heads/main/all_configs.txt",
+      "https://raw.githubusercontent.com/liMilCo/v2r/refs/heads/main/new_configs.txt",
+      "https://raw.githubusercontent.com/liMilCo/v2r/refs/heads/main/old_configs.txt"
+    ]
+  },
+  "Delta-Kronecker/V2ray-Config": {
+    "type": "v2ray",
+    "files": [
+      "https://raw.githubusercontent.com/Delta-Kronecker/V2ray-Config/refs/heads/main/config/protocols/vless.txt",
+      "https://raw.githubusercontent.com/Delta-Kronecker/V2ray-Config/refs/heads/main/config/protocols/trojan.txt"
+    ]
+  },
+  "rtwo2/FastNodes": {
+    "type": "v2ray",
+    "files": [
+      "https://raw.githubusercontent.com/rtwo2/FastNodes/refs/heads/main/sub/everything.txt"
+    ]
+  },
+  "Epodonios/v2ray-configs": {
+    "type": "v2ray",
+    "files": [
+      "https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/All_Configs_Sub.txt"
+    ]
+  },
+  "itsyebekhe/PSG": {
+    "type": "v2ray",
+    "files": [
+      "https://raw.githubusercontent.com/itsyebekhe/PSG/refs/heads/main/subscriptions/xray/normal/vless",
+      "https://raw.githubusercontent.com/itsyebekhe/PSG/refs/heads/main/subscriptions/xray/normal/vmess",
+      "https://raw.githubusercontent.com/itsyebekhe/PSG/refs/heads/main/subscriptions/xray/normal/trojan",
+      "https://raw.githubusercontent.com/itsyebekhe/PSG/refs/heads/main/subscriptions/xray/normal/openai"
+    ]
+  },
+  "victorgeel/keybot": {
+    "type": "v2ray",
+    "files": [
+      "https://raw.githubusercontent.com/victorgeel/keybot/refs/heads/main/subscription/hysteria.txt"
+    ]
+  },
+  "mahdibland/V2RayAggregator": {
+    "type": "v2ray",
+    "files": [
+      "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/refs/heads/master/sub/sub_merge.txt"
+    ]
+  },
+  "fvyrf/fresh-proxy-list": {
+    "type": "proxy_list",
+    "files": [
+      "https://raw.githubusercontent.com/fyvri/fresh-proxy-list/archive/storage/classic/http.txt",
+      "https://raw.githubusercontent.com/fyvri/fresh-proxy-list/archive/storage/classic/https.txt",
+      "https://raw.githubusercontent.com/fyvri/fresh-proxy-list/archive/storage/classic/socks4.txt",
+      "https://raw.githubusercontent.com/fyvri/fresh-proxy-list/archive/storage/classic/socks5.txt"
+    ]
+  },
+  "SoliSpirit/mtproto": {
+    "type": "mtproto",
+    "files": [
+      "https://raw.githubusercontent.com/SoliSpirit/mtproto/master/all_proxies.txt"
+    ]
+  },
+  "Grim1313/mtproto-for-telegram": {
+    "type": "mtproto",
+    "files": [
+      "https://raw.githubusercontent.com/Grim1313/mtproto-for-telegram/master/all_proxies.txt"
+    ]
+  },
+  "barry-far/V2ray-Config": {
+    "type": "v2ray",
+    "files": [
+      "https://raw.githubusercontent.com/barry-far/V2ray-config/main/All_Configs_Sub.txt"
+    ]
+  }
+}
